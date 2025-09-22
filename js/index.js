@@ -1,2 +1,9 @@
-let check = 2323
-check = "asas"
+let checkJs = 2323
+checkJs = "asas"
+
+
+function addJs(a, b) {
+    return a + b
+}
+
+addJs(2, 3)
